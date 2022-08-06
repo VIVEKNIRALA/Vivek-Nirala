@@ -1,2 +1,0 @@
-# Vivek-Nirala
-portfolio
