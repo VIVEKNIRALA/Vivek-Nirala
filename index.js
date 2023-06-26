@@ -57,7 +57,7 @@ scroollElement.addEventListener("click" , scrollTop);
 
 
 
-// animation number counter 
+// animated count number 
 
 const counterNum = document.querySelectorAll(".counter-numbers");
 
